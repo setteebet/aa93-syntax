@@ -1,0 +1,18 @@
+{
+  "name": "aa93-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "3ตัวบนบาทละ✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"3ตัวบนบาทละ",
+"หวยออนไลน์",
+"lottovip สมัคร",
+"เว็บหวย24ชั่วโมง",
+"สมัครหวยสด"
+],
+  "repository": "https://github.com/setteebet/aa93-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
